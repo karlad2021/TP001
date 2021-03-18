@@ -1,0 +1,5 @@
+outs:
+- md5: 742d03707e1eaf19bae706d95a4fab5e
+  size: 39063
+  path: boston_housing.csv
+  isexec: true
